@@ -23,7 +23,7 @@ https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/cfg/C
 Custom_Clash_AI.ini
 
 ```text
-https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/cfg/Custom_Clash_AI.ini
+https://testingcf.jsdelivr.net/gh/Linorman/Custom_OpenClash_Rules@main/cfg/Custom_Clash_AI.ini
 ```
 
 Custom_Clash_GFW.ini
