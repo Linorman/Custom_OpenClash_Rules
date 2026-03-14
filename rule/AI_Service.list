@@ -1,11 +1,14 @@
 # OpenAI / Claude / Gemini only
 # Maintained for the AI-only template in cfg/Custom_Clash_AI.ini
+# Includes official web, API, console, docs, and static asset domains.
 openai.com
 chatgpt.com
+sora.com
 oaistatic.com
 oaiusercontent.com
 anthropic.com
 claude.ai
+claude.com
 claudeusercontent.com
 gemini.google.com
 aistudio.google.com

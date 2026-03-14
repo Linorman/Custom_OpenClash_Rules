@@ -1,14 +1,17 @@
 # Maintained for cfg/Custom_Clash_AI.ini
 # OpenAI / Claude / Gemini only
-# TOTAL: 12
+# Includes official web, API, console, docs, and static asset domains.
+# TOTAL: 14
 
 payload:
   - '+.openai.com'
   - '+.chatgpt.com'
+  - '+.sora.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.anthropic.com'
   - '+.claude.ai'
+  - '+.claude.com'
   - '+.claudeusercontent.com'
   - '+.gemini.google.com'
   - '+.aistudio.google.com'
