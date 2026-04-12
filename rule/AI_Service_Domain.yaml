@@ -1,7 +1,7 @@
 # Maintained for cfg/Custom_Clash_AI.ini
-# OpenAI / Claude / Gemini only
+# OpenAI / Claude / Cursor only
 # Includes official web, API, console, docs, and static asset domains.
-# TOTAL: 14
+# TOTAL: 13
 
 payload:
   - '+.openai.com'
@@ -13,8 +13,7 @@ payload:
   - '+.claude.ai'
   - '+.claude.com'
   - '+.claudeusercontent.com'
-  - '+.gemini.google.com'
-  - '+.aistudio.google.com'
-  - '+.ai.google.dev'
-  - '+.makersuite.google.com'
-  - '+.generativelanguage.googleapis.com'
+  - '+.cursor.com'
+  - '+.cursor.sh'
+  - '+.cursorapi.com'
+  - '+.cursor-cdn.com'

@@ -1,4 +1,4 @@
-# OpenAI / Claude / Gemini only
+# OpenAI / Claude / Cursor only
 # Maintained for the AI-only template in cfg/Custom_Clash_AI.ini
 # Includes official web, API, console, docs, and static asset domains.
 openai.com
@@ -10,8 +10,7 @@ anthropic.com
 claude.ai
 claude.com
 claudeusercontent.com
-gemini.google.com
-aistudio.google.com
-ai.google.dev
-makersuite.google.com
-generativelanguage.googleapis.com
+cursor.com
+cursor.sh
+cursorapi.com
+cursor-cdn.com
