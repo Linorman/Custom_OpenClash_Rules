@@ -1,0 +1,8 @@
+# Maintained for AI-related lightweight templates
+# AutoDL only
+# Includes official web, API, docs, and custom service ingress domains.
+# TOTAL: 2
+
+payload:
+  - '+.autodl.com'
+  - '+.seetacloud.com'
