@@ -1,13 +1,22 @@
 # Maintained for cfg/Custom_Clash_AI.ini
 # OpenAI / ChatGPT dependencies + Claude / Cursor
 # Includes web, API, mobile, desktop, auth, uploads, WebSocket, Voice, and static asset domains.
-# TOTAL: 35
+# TOTAL: 51
 
 payload:
   - '+.openai.com'
   - '+.chatgpt.com'
   - '+.sora.com'
   - '+.openai.fm'
+  - '+.auth.openai.com'
+  - '+.auth0.openai.com'
+  - '+.setup.auth.openai.com'
+  - '+.chat.openai.com'
+  - '+.android.chat.openai.com'
+  - '+.desktop.chat.openai.com'
+  - '+.ios.chat.openai.com'
+  - '+.tcr9i.chat.openai.com'
+  - '+.ws.chatgpt.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.c-openai.com'
@@ -18,13 +27,20 @@ payload:
   - '+.intercomcdn.com'
   - '+.statsig.com'
   - '+.statsigapi.net'
+  - '+.events.statsigapi.net'
   - '+.openaimerge.com'
+  - '+.cdn.openaimerge.com'
   - '+.workos.com'
+  - '+.cdn.workos.com'
+  - '+.forwarder.workos.com'
+  - '+.setup.workos.com'
   - '+.workoscdn.com'
+  - '+.images.workoscdn.com'
   - '+.workos.imgix.net'
   - '+.challenges.cloudflare.com'
   - '+.humb.apple.com'
   - '+.register.appattest.apple.com'
+  - '+.js.intercomcdn.com'
   - '+.js.stripe.com'
   - '+.o207216.ingest.sentry.io'
   - '+.o33249.ingest.sentry.io'
