@@ -1,14 +1,36 @@
 # Maintained for cfg/Custom_Clash_AI.ini
-# OpenAI / Claude / Cursor only
-# Includes official web, API, console, docs, and static asset domains.
-# TOTAL: 13
+# OpenAI / ChatGPT dependencies + Claude / Cursor
+# Includes web, API, mobile, desktop, auth, uploads, WebSocket, Voice, and static asset domains.
+# TOTAL: 35
 
 payload:
   - '+.openai.com'
   - '+.chatgpt.com'
   - '+.sora.com'
+  - '+.openai.fm'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
+  - '+.c-openai.com'
+  - '+.ct.sendgrid.net'
+  - '+.featuregates.org'
+  - '+.featureassets.org'
+  - '+.intercom.io'
+  - '+.intercomcdn.com'
+  - '+.statsig.com'
+  - '+.statsigapi.net'
+  - '+.openaimerge.com'
+  - '+.workos.com'
+  - '+.workoscdn.com'
+  - '+.workos.imgix.net'
+  - '+.challenges.cloudflare.com'
+  - '+.humb.apple.com'
+  - '+.register.appattest.apple.com'
+  - '+.js.stripe.com'
+  - '+.o207216.ingest.sentry.io'
+  - '+.o33249.ingest.sentry.io'
+  - '+.rum.browser-intake-datadoghq.com'
+  - '+.prodregistryv2.org'
+  - '+.livekit.cloud'
   - '+.anthropic.com'
   - '+.claude.ai'
   - '+.claude.com'

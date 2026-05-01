@@ -12,7 +12,8 @@
 | :--- | :---: | :--- |
 | [**Custom_Direct.list**](Custom_Direct.list) | <img src="https://img.shields.io/badge/Mode-DIRECT-green?style=flat-square" alt="DIRECT"> | 🎯 **直连规则**：包含一些需要直连的冷门域名。 |
 | [**Custom_Proxy.list**](Custom_Proxy.list) | <img src="https://img.shields.io/badge/Mode-PROXY-blue?style=flat-square" alt="PROXY"> | 🚀 **非直连规则**：包含一些需要经由出站策略处理的冷门域名。 |
-| [**AI_Service.list**](AI_Service.list) | <img src="https://img.shields.io/badge/Mode-PROXY-blue?style=flat-square" alt="PROXY"> | 🤖 **AI 专用规则**：仅包含 OpenAI / Claude / Cursor 相关域名。 |
+| [**AI_Service.list**](AI_Service.list) | <img src="https://img.shields.io/badge/Mode-PROXY-blue?style=flat-square" alt="PROXY"> | 🤖 **AI 专用规则**：包含 OpenAI / ChatGPT 及其认证、移动端、上传、Voice 依赖域名，以及 Claude / Cursor 相关域名。 |
+| [**AI_Service_IP.list**](AI_Service_IP.list) | <img src="https://img.shields.io/badge/Mode-PROXY-blue?style=flat-square" alt="PROXY"> | 🤖 **AI 语音 IP 规则**：OpenAI 官方 `chatgpt-voice.json` 当前 IP 快照，用于 ChatGPT Voice UDP 3478 场景兜底。 |
 | [**AutoDL.list**](AutoDL.list) | <img src="https://img.shields.io/badge/Mode-PROXY-blue?style=flat-square" alt="PROXY"> | 🖥️ **AutoDL 规则**：包含 AutoDL 官方站点、API、文档和自定义服务入口相关域名。 |
 | [**Perplexity.list**](Perplexity.list) | <img src="https://img.shields.io/badge/Mode-PROXY-blue?style=flat-square" alt="PROXY"> | 🔎 **Perplexity 规则**：包含 Perplexity 网页与 API 相关域名。 |
 | [**Linorman.list**](Linorman.list) | <img src="https://img.shields.io/badge/Mode-PROXY-blue?style=flat-square" alt="PROXY"> | 🧭 **Linorman 规则**：包含 `linorman.org` 及其子域名。 |

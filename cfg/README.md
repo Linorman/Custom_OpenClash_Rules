@@ -7,7 +7,7 @@
 | 名称 | 适用内核 | 内容 |
 | :-: | :-: | :-: |
 | Custom_Clash.ini | Meta | 本项目标准模板，推荐使用 |
-| Custom_Clash_AI.ini | Meta | AI 专用轻量模板，仅代理 OpenAI / Claude / Gemini |
+| Custom_Clash_AI.ini | Meta | AI 专用轻量模板，仅代理 OpenAI / ChatGPT / Claude / Cursor / AutoDL |
 | Custom_Clash_Mainland_Related.ini | Meta | Mainland 相关轻量模板，仅代理 AI / GitHub / Google / Perplexity / Linorman |
 | Custom_Clash_GFW.ini | Meta | 极简规则版本 |
 | Custom_Clash_Lite.ini | Meta | 更精简版本（策略更简单） |
